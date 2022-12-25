@@ -5,6 +5,7 @@
 
 # 解释器与编译器
 1. [C++实现解释器](http://lesliezhu.com/archive.html)
+2. [crafting interpreters 中文翻译](https://zihengcat.github.io/crafting-interpreters-zh-cn)
 
 <br>
 
