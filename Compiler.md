@@ -12,10 +12,15 @@
 # flex & bison
 
 1. [YY_USER_ACTION](https://www.cnblogs.com/Frandy/archive/2013/04/10/parser_flex_bison_location_using.html)
-
+2. [Writing a simple Compiler on my own - Combine Flex and Bison](https://steemit.com/utopian-io/@drifter1/writing-a-simple-compiler-on-my-own-combine-flex-and-bison)
 
 <br>
 
 # LLVM
 
 1. [llvm系列](https://blog.csdn.net/zhanglin_wu/category_11835780.html)
+
+<br>
+
+# 语法规则
+1. [ANSI C grammar, Lex specification](https://www.quut.com/c/ANSI-C-grammar-l-1999.html)
