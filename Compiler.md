@@ -13,7 +13,7 @@
 
 1. [YY_USER_ACTION](https://www.cnblogs.com/Frandy/archive/2013/04/10/parser_flex_bison_location_using.html)
 2. [Writing a simple Compiler on my own - Combine Flex and Bison](https://steemit.com/utopian-io/@drifter1/writing-a-simple-compiler-on-my-own-combine-flex-and-bison)
-
+3. [flex : advance use of flex](https://people.cs.aau.dk/~marius/sw/flex/Advanced-Use-of-Flex.html)
 <br>
 
 # LLVM
