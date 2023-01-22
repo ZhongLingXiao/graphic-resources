@@ -4,7 +4,7 @@
 <br>
 
 # 解释器与编译器
-1. [C++实现解释器](http://lesliezhu.com/archive.html)
+1. [C++ 实现解释器](http://lesliezhu.com/archive.html)
 2. [crafting interpreters 中文翻译](https://zihengcat.github.io/crafting-interpreters-zh-cn)
 
 <br>
@@ -18,8 +18,8 @@
 
 # LLVM
 
-1. [llvm系列](https://blog.csdn.net/zhanglin_wu/category_11835780.html)
-
+1. [llvm 系列](https://blog.csdn.net/zhanglin_wu/category_11835780.html)
+2. [LLVM IR 及其构建](https://clarazhang.gitbooks.io/compiler-f2017/content/llvmIRGen.html)
 <br>
 
 # 语法规则
