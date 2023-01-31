@@ -14,6 +14,7 @@
 1. [YY_USER_ACTION](https://www.cnblogs.com/Frandy/archive/2013/04/10/parser_flex_bison_location_using.html)
 2. [Writing a simple Compiler on my own - Combine Flex and Bison](https://steemit.com/utopian-io/@drifter1/writing-a-simple-compiler-on-my-own-combine-flex-and-bison)
 3. [flex : advance use of flex](https://people.cs.aau.dk/~marius/sw/flex/Advanced-Use-of-Flex.html)
+4. [How to Build a C Compiler Using Lex and Yacc](https://medium.com/codex/building-a-c-compiler-using-lex-and-yacc-446262056aaa)
 <br>
 
 # LLVM
@@ -23,4 +24,5 @@
 <br>
 
 # 语法规则
-1. [ANSI C grammar, Lex specification](https://www.quut.com/c/ANSI-C-grammar-l-1999.html)
+1. [ANSI C99 grammar, Lex specification](https://www.quut.com/c/ANSI-C-grammar-l-1999.html)
+2. [ANSI C11 grammar, Lex specification](https://www.quut.com/c/ANSI-C-grammar-y-2011.html)
