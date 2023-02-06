@@ -1,9 +1,9 @@
-## Rigging
+### Rigging
 1. [Rigid Stabilization of Facial Expressions](https://studios.disneyresearch.com/2014/07/27/rigid-stabilization-of-facial-expressions/#:~:text=In%20order%20to%20extract%20true,and%20error%2Dprone%20manual%20process.)
 
 <br>
 
-## 4D video
+### 4D video
 
 1. [Benchmarking Open-Source Static 3D Mesh
 Codecs for Immersive Media Interactive Live
