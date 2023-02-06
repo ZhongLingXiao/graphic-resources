@@ -1,6 +1,7 @@
 ### 编译原理
 1. [知乎：编译工程课程](https://www.zhihu.com/column/c_1081509964404543488)
 2. [A brief history of just-in-time](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
+3. [Awesome-JIT](https://github.com/wdv4758h/awesome-jit)
 <br>
 
 ### 解释器与编译器
