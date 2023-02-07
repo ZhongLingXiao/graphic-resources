@@ -1,5 +1,5 @@
 ### cinematography theory
-- [cg cinematography](https://chrisbrejon.com/cg-cinematography/)
+1. [cg cinematography](https://chrisbrejon.com/cg-cinematography/)
 
 <br>
 
