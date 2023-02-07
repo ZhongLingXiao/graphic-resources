@@ -23,6 +23,7 @@
 1. [llvm 系列](https://blog.csdn.net/zhanglin_wu/category_11835780.html)
 2. [LLVM IR 及其构建](https://clarazhang.gitbooks.io/compiler-f2017/content/llvmIRGen.html)
 3. [create-your-own-programming-language (with multithread support)](https://mukulrathi.com/create-your-own-programming-language/concurrency-runtime-language-tutorial/)
+4. [IR API 教程](https://blog.csdn.net/qq_42570601/category_10200372.html)
 <br>
 
 ### 语法规则
