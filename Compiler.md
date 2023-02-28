@@ -3,6 +3,7 @@
 2. [A brief history of just-in-time](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
 3. [Awesome-JIT](https://github.com/wdv4758h/awesome-jit)
 4. [中国科学技术大学 编译原理](https://gaozhiyuan.net/compilers)
+5. [awesome-compilers](https://gitlab.com/glicOne/awesome-compilers)
 <br>
 
 ### 前端
