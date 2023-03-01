@@ -26,6 +26,7 @@
 2. [LLVM IR 及其构建](https://clarazhang.gitbooks.io/compiler-f2017/content/llvmIRGen.html)
 3. [create-your-own-programming-language (with multithread support)](https://mukulrathi.com/create-your-own-programming-language/concurrency-runtime-language-tutorial/)
 4. [IR API 教程](https://blog.csdn.net/qq_42570601/category_10200372.html)
+5. [JIT with LLVM](https://wiki.aalto.fi/pages/viewpage.action?pageId=56361068)
 <br>
 
 ### 语法规则
