@@ -7,3 +7,7 @@
 1. ["Practical Path Guiding" in Production by Thomas Müller](https://tom94.net/data/courses/vorba19guiding/vorba19guiding-slides.pdf)
 2. [Follow the light: Introducing path guiding in Cycles](https://www.youtube.com/watch?v=BS1JLbNqGxI)
 3. [Path Guiding in Production SIGGRAPH 2019 Course](https://jo.dreggn.org/path-tracing-in-production/2019/guiding.pdf)
+
+
+### accel
+1. [A Survey on Bounding Volume Hierarchies for Ray Tracing. EUROGRAPHICS 2021](https://meistdan.github.io/publications/bvh_star/paper.pdf)
