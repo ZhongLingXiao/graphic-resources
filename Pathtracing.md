@@ -11,3 +11,8 @@
 
 ### accel
 1. [A Survey on Bounding Volume Hierarchies for Ray Tracing. EUROGRAPHICS 2021](https://meistdan.github.io/publications/bvh_star/paper.pdf)
+
+
+
+### out of core
+1. [《OUT-OF-CORE GPU PATH TRACING ON LARGE INSTANCED SCENES VIA GEOMETRY STREAMING》Jeremy Berchtold. 2022](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=4082&context=theses)
