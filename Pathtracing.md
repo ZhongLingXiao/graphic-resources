@@ -19,3 +19,9 @@
 2. [GPU Accelerated Path Tracing of Massive Scenes](https://dl.acm.org/doi/fullHtml/10.1145/3447807)
 3. [GPU-accelerated distributed rendering of massive scenes in Cycles](https://www.youtube.com/watch?v=SMV8EHwi8AI)
 4. [Path Tracing of Massive Scenes in Blender on Multi-GPU Systems | GTC 2021](https://www.youtube.com/watch?v=rbZzPLddaHg)
+
+
+### author
+1. [Daqi](https://dqlin.xyz/)
+2. [Ingo Wald](https://ingowald.blog/)
+3. [Matt Pharr](https://pharr.org/matt/blog/)
