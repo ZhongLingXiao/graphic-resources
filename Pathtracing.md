@@ -16,3 +16,6 @@
 
 ### out of core
 1. [《OUT-OF-CORE GPU PATH TRACING ON LARGE INSTANCED SCENES VIA GEOMETRY STREAMING》Jeremy Berchtold. 2022](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=4082&context=theses)
+2. [GPU Accelerated Path Tracing of Massive Scenes](https://dl.acm.org/doi/fullHtml/10.1145/3447807)
+3. [GPU-accelerated distributed rendering of massive scenes in Cycles](https://www.youtube.com/watch?v=SMV8EHwi8AI)
+4. [Path Tracing of Massive Scenes in Blender on Multi-GPU Systems | GTC 2021](https://www.youtube.com/watch?v=rbZzPLddaHg)
