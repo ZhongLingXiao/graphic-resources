@@ -21,6 +21,9 @@
 4. [Path Tracing of Massive Scenes in Blender on Multi-GPU Systems | GTC 2021](https://www.youtube.com/watch?v=rbZzPLddaHg)
 
 
+### course
+1. [CS888. Advanced Topics in Computer Graphics](https://morgan3d.github.io/advanced-ray-tracing-course/index.html)
+
 ### author
 1. [Daqi](https://dqlin.xyz/)
 2. [Ingo Wald](https://ingowald.blog/)
