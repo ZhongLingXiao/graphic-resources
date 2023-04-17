@@ -23,6 +23,7 @@
 
 ### course
 1. [CS888. Advanced Topics in Computer Graphics](https://morgan3d.github.io/advanced-ray-tracing-course/index.html)
+2. [cmu. High-Performance Ray Tracing](http://15462.courses.cs.cmu.edu/fall2016content/lectures/13_raytracing/13_raytracing_slides.pdf)
 
 ### author
 1. [Daqi](https://dqlin.xyz/)
