@@ -4,6 +4,8 @@
 
 ### Blendshape
 1. [Practice and Theory of Blendshape Facial Models](https://diglib.eg.org/bitstream/handle/10.2312/egst.20141042.199-218/199-218.pdf?sequence=1&isAllowed=y)
+2. [A Facial Composite Editor for Blendshape Characters](https://www.researchgate.net/publication/262171446_A_Facial_Composite_Editor_for_Blendshape_Characters)
+
 
 ### 4D video
 
