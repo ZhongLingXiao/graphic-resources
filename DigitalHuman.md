@@ -12,3 +12,7 @@ Codecs for Immersive Media Interactive Live
 Streaming](http://vcl.iti.gr/vclNew/wp-content/uploads/2019/02/benchmarking_open_source_static.pdf)
 2. [Textured Mesh vs Coloured Point Cloud: A Subjective Study for Volumetric Video Compression](https://ieeexplore.ieee.org/document/9123137)
 3. [Animatomy: an Animator-centric, Anatomically Inspired System for 3D Facial Modeling, Animation and Transfer. SIGGRAPH Asia 2022](https://www.dgp.toronto.edu/projects/animatomy/)
+
+
+### FACS
+1. [面部表情艺用解剖中文版V1.2](https://fliphtml5.com/vpipj/njlh/basic)
