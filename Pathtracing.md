@@ -29,3 +29,4 @@
 1. [Daqi](https://dqlin.xyz/)
 2. [Ingo Wald](https://ingowald.blog/)
 3. [Matt Pharr](https://pharr.org/matt/blog/)
+4. [Inigo Quilez](https://iquilezles.org/articles/)
