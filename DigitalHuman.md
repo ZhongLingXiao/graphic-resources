@@ -18,3 +18,7 @@ Streaming](http://vcl.iti.gr/vclNew/wp-content/uploads/2019/02/benchmarking_open
 
 ### FACS
 1. [面部表情艺用解剖中文版V1.2](https://fliphtml5.com/vpipj/njlh/basic)
+
+
+### metahuman
+1. [RIG LOGIC METAHUMAN 面部绑定 运行时评估](https://cdn2-unrealengine-1251447533.file.myqcloud.com/rig-logic-whitepaper-v2-zhcn-5860d80f8357.pdf)
